@@ -177,6 +177,6 @@ policy = {
 ## 📝 Medium Article Draft
 
 A complete, production-ready Medium publication draft is available at:  
-👉 **[MEDIUM_ARTICLE.md](file:///Users/shashank/.gemini/antigravity/scratch/laya_security_guardrail/MEDIUM_ARTICLE.md)**
+👉 **[MEDIUM_ARTICLE.md][(file:///Users/shashank/.gemini/antigravity/scratch/laya_security_guardrail/MEDIUM_ARTICLE.md)**](https://medium.com/@shashvik/why-i-replaced-generative-llms-with-a-140ms-decision-model-for-security-guardrails-a95cc1eda848?postPublishedType=repub)
 
 Feel free to copy and publish it directly to your Medium blog!
