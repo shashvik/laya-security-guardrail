@@ -10,6 +10,9 @@ Built to eliminate the latency, cost, and hallucination risks of using multi-sec
 
 ---
 
+<img width="602" height="612" alt="image" src="https://github.com/user-attachments/assets/8c3fb12d-12af-4688-a77e-242b9bac257f" />
+
+
 ## ⚡ Why Laya vs. Generative LLMs (and Jev)?
 
 | Feature | Generative LLMs (GPT-4 / Claude) | Jev (TypeSafe AI) | **Laya (This Suite)** |
